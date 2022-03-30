@@ -4,6 +4,6 @@ This is a repository of me learning the basics of Web 3 via LearnWeb3DAO, and th
 
 View the contract on https://rinkeby.etherscan.io/address/0x543feff81247f1cf1836c1fb6585ac2cee33873c
 
-Live demo site: https://my-first-whitelist-enabled-nft-6n8o9zb34-domica-s.vercel.app/
+Live demo site: https://my-first-nft-collection.vercel.app/
 
-View on Opensea: 
+View on Opensea: https://testnets.opensea.io/assets/0x543feff81247f1cf1836c1fb6585ac2cee33873c/1
